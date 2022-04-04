@@ -1,6 +1,6 @@
 ## Visualisation of Epidemic
 
-Useless Demo Web App
+Demo
 
 To deploy
 
