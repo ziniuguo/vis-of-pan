@@ -2,6 +2,8 @@
 
 Demo
 
+<img src="screenshot1.jpg" width=40% height=40%>
+
 To deploy
 
 $ docker build -f Dockerfile -t app:latest .
