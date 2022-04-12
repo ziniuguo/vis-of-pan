@@ -2,7 +2,7 @@
 
 Demo
 
-<img src="screenshot1.jpg" width=40% height=40%>
+<img src="Screenshot1.jpg" width=40% height=40%>
 
 To deploy
 
