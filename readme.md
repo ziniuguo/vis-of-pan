@@ -2,9 +2,9 @@
 
 Demo
 
-<img src="Screenshot1.png" width=600px >
+<img src="Screenshot1.png" width=900px >
 
-<img src="Screenshot1.png" width=600px >
+<img src="Screenshot1.png" width=900px >
 
 To deploy
 
